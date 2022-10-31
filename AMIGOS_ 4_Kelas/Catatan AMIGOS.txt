@@ -1,0 +1,18 @@
+Missing Value
+Data 11
+Data 12
+Data 17
+Data 18
+Data 21
+Data 22
+Data 23
+Data 24
+Data 33
+
+Individu
+Data 8
+Data 28
+Data 32
+
+Total data group 6192
+Total data individual 1394
